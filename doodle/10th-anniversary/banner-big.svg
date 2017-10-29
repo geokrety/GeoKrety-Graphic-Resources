@@ -87,8 +87,8 @@
      id="g2490"
      transform="translate(28.751625,73.516812)"
      inkscape:export-filename="/home/filips/svn/geokrety/rzeczy/logo/geokrety.png"
-     inkscape:export-xdpi="468.53"
-     inkscape:export-ydpi="468.53">
+     inkscape:export-xdpi="274.53"
+     inkscape:export-ydpi="274.53">
     <rect
        width="61.299881"
        height="26.478128"
@@ -227,8 +227,8 @@
      id="g15767"
      transform="matrix(0.2230704,0,0,0.2322423,46.969368,6.5451007)"
      inkscape:export-filename="/home/filips/svn/geokrety/rzeczy/logo/geokrety.png"
-     inkscape:export-xdpi="468.53"
-     inkscape:export-ydpi="468.53">
+     inkscape:export-xdpi="274.53"
+     inkscape:export-ydpi="274.53">
     <polygon
        transform="matrix(1.8020893,-0.1634812,0.1634812,1.8020893,-298.8125,-111.4466)"
        style="fill:#ffffff;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round"
@@ -332,8 +332,8 @@
      transform="translate(28.751625,73.516812)"
      id="g3693"
      inkscape:export-filename="/home/filips/svn/geokrety/rzeczy/logo/geokrety.png"
-     inkscape:export-xdpi="468.53"
-     inkscape:export-ydpi="468.53">
+     inkscape:export-xdpi="274.53"
+     inkscape:export-ydpi="274.53">
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3695"
@@ -356,7 +356,9 @@
   </g>
   <g
      id="g3640"
-     transform="matrix(0.25039994,0,0,0.21984541,-11.85509,29.612309)">
+     transform="matrix(0.25039994,0,0,0.21984541,-11.85509,29.612309)"
+     inkscape:export-xdpi="274.53"
+     inkscape:export-ydpi="274.53">
     <path
        id="path3386"
        d="m 254.194,48.989 c -3.769,5.641 2.111,10.161 2,15.694 -0.099,4.934 -4.398,8.337 -9.268,6.119 -3.264,-1.487 -1.887,-9.292 -0.728,-12.082 1.612,-3.881 2.946,-9.244 7.745,-10.231 l 0.251,0.5 z"
@@ -1028,7 +1030,9 @@
      y="67.365883"
      id="text3766"
      sodipodi:linespacing="125%"
-     transform="scale(0.99497062,1.0050548)"><tspan
+     transform="scale(0.99497062,1.0050548)"
+     inkscape:export-xdpi="274.53"
+     inkscape:export-ydpi="274.53"><tspan
        sodipodi:role="line"
        x="75.529633"
        y="67.365883"
@@ -1041,7 +1045,9 @@
      y="87.313866"
      id="text3774"
      sodipodi:linespacing="125%"
-     transform="scale(0.99497062,1.0050548)"><tspan
+     transform="scale(0.99497062,1.0050548)"
+     inkscape:export-xdpi="274.53"
+     inkscape:export-ydpi="274.53"><tspan
        sodipodi:role="line"
        id="tspan3776"
        x="88.223816"
