@@ -14,7 +14,7 @@
    height="41.295544"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="logo-sylwestra.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/kumy/GIT/GeoKrety-Static/content/images/banners/logo-sylwestra.png"
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,9 +46,9 @@
      id="base"
      showgrid="false"
      inkscape:zoom="2.8284271"
-     inkscape:cx="171.34833"
+     inkscape:cx="109.29971"
      inkscape:cy="-1.6424844"
-     inkscape:window-x="1985"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:current-layer="svg2"
      inkscape:window-maximized="1"
@@ -101,7 +101,7 @@
        id="tspan3755"
        x="207.64595"
        y="-98.560677"
-       style="font-size:23.13551712px;line-height:1.25;font-family:sans-serif;fill:#d40000">2018</tspan></text>
+       style="font-size:23.13551712px;line-height:1.25;font-family:sans-serif;fill:#d40000">2019</tspan></text>
   <g
      id="g3832"
      transform="matrix(0.03451292,0,0,0.01313054,37.249493,0.22158845)"
